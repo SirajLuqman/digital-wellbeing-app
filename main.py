@@ -1109,7 +1109,7 @@ class DashboardScreen(Screen):
     def get_usage_data(self):
         return {
             "screen_time": "3h 45m",
-            "most_used": "WhatsApp - 1h 10m",
+            "most_used": "YouTube - 2h 30m",
             "pickups": 47,
             "notifications": 120,
             "apps": [
