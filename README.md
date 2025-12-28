@@ -2,7 +2,7 @@
 
 ## 🖥️ Project Overview
 
-The **Digital Wellbeing App** is a cross-platform desktop application built with Python and Kivy, designed to help users monitor and improve their relationship with technology. It provides insightful analytics on device usage, sends personalized notifications about digital habits, and offers productivity tips—all through an intuitive, themeable interface.
+The **Digital Wellbeing App** is a cross-platform application built with Python and Kivy, designed to help users monitor and improve their relationship with technology. It provides insightful analytics on device usage, sends personalized notifications about digital habits, and offers productivity tips—all through an intuitive, themeable interface.
 
 The application addresses modern concerns about screen time and productivity by turning raw usage data into actionable insights, promoting a more mindful and balanced digital lifestyle.
 
